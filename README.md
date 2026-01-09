@@ -1,5 +1,5 @@
 # Zomata Analysis – Python Data Exploration
-Overview
+<b>Overview</b>
 
 Zomata Analysis is a Python-based data analysis project that performs exploratory analysis on a dataset containing information about restaurants on the Zomato platform. Using libraries such as Pandas and Matplotlib/Seaborn, this project cleans and analyzes the dataset to reveal insights such as restaurant ratings, cuisine distribution, geographic patterns, and trends relevant to consumer preferences.
 
