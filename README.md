@@ -5,7 +5,7 @@ Zomata Analysis is a Python-based data analysis project that performs explorator
 
 The analysis demonstrates core data analytics steps: loading data, cleaning and transforming values, handling missing data, and extracting meaningful insights through summary statistics and visualizations.
 
-Project Objective
+<b>Project Objective</b>
 
 The primary objective of this repository is to apply Python data analysis techniques on a real-world dataset to:
 
@@ -17,7 +17,7 @@ Derive actionable insights from the dataset through exploratory data analysis (E
 
 Demonstrate practical usage of Python data libraries for analytics tasks.
 
-Contents
+<b>Contents</b>
 File	Description
 Zomato_data.csv	Raw dataset containing restaurant information.
 Zomato_data_analysis.ipynb	Jupyter Notebook with EDA code and visualizations.
@@ -26,85 +26,67 @@ Dataset Description
 
 The dataset used for analysis contains key attributes related to restaurants listed on the Zomato platform. Typical fields include:
 
-Restaurant Name
+* Restaurant Name
 
-City / Location
+* City / Location
 
-Cuisines
+* Cuisines
 
-Ratings and Votes
+* Ratings and Votes
 
-Approximate Cost (for two)
+* Approximate Cost (for two)
 
-Online Delivery and Table Booking availability
+* Online Delivery and Table Booking availability
 
 This dataset enables multi-dimensional exploration of restaurant trends and customer behavior.
 
-Key Analysis Steps
+<b>Key Analysis Steps</b>
 1. Data Loading
 
-The dataset is loaded into a Pandas DataFrame for manipulation and analysis.
+* The dataset is loaded into a Pandas DataFrame for manipulation and analysis.
 
 2. Data Cleaning
 
-Handle missing values and incorrect types.
+* Handle missing values and incorrect types.
 
-Convert numeric fields stored as text into appropriate numeric formats.
+* Convert numeric fields stored as text into appropriate numeric formats.
 
-Standardize values for consistent analysis.
+* Standardize values for consistent analysis.
 
 3. Exploratory Data Analysis
 
-Distribution of restaurant ratings and costs.
+* Distribution of restaurant ratings and costs.
 
-Popular cuisine types and trends across locations.
+* Popular cuisine types and trends across locations.
 
-Comparison of online delivery availability vs. traditional dining.
+* Comparison of online delivery availability vs. traditional dining.
 
-Insights into customer preferences and restaurant types.
+* Insights into customer preferences and restaurant types.
 
-Libraries Used
+<b>Libraries Used</b>
 
 The analysis notebook leverages the following Python libraries:
 
-Pandas – for data manipulation and transformation.
+* Pandas – for data manipulation and transformation.
 
-NumPy – for numerical operations.
+* NumPy – for numerical operations.
 
-Matplotlib & Seaborn – for data visualization.
-
-How to Run the Analysis
-
-Clone the repository:
-
-git clone https://github.com/venkatasaikuntumalla/Zomata_Analysis-Python.git
+* Matplotlib & Seaborn – for data visualization.
 
 
-Install required libraries (if not already installed):
-
-pip install pandas numpy matplotlib seaborn
-
-
-Open the Jupyter Notebook:
-
-jupyter notebook Zomato_data_analysis.ipynb
-
-
-Execute the cells step-by-step to view the analysis and charts.
-
-Insights You Can Explore
+>b>Insights You Can Explore</b>
 
 This project allows you to answer questions such as:
 
-What types of restaurants are most common on Zomato?
+1) What types of restaurants are most common on Zomato?
 
-How do ratings vary by cuisine and city?
+2) How do ratings vary by cuisine and city?
 
-What cost ranges do most restaurants fall into?
+3) What cost ranges do most restaurants fall into?
 
-Are customers more likely to order from restaurants with online delivery?
+4) Are customers more likely to order from restaurants with online delivery?
 
-Use Cases
+<b>Use Cases</b>
 
 Learning resource for Python data analysis.
 
