@@ -74,7 +74,7 @@ The analysis notebook leverages the following Python libraries:
 * Matplotlib & Seaborn – for data visualization.
 
 
->b>Insights You Can Explore</b>
+<b>Insights You Can Explore</b>
 
 This project allows you to answer questions such as:
 
@@ -88,8 +88,8 @@ This project allows you to answer questions such as:
 
 <b>Use Cases</b>
 
-Learning resource for Python data analysis.
+- Learning resource for Python data analysis.
 
-Foundation for building advanced analytics or machine learning models.
+- Foundation for building advanced analytics or machine learning models.
 
-Demonstration of real-world data preprocessing and visualization techniques.
+- Demonstration of real-world data preprocessing and visualization techniques.
